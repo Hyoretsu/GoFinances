@@ -43,3 +43,4 @@ buck-out/
 */fastlane/screenshots
 *.jsbundle
 /ios/Pods/
+ormconfig.json
